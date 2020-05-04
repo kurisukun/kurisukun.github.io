@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enthusiastic Learning Driven by Stocastic Findings</title>
+    <link>https://kurisukun.github.io/</link>
+    <description>Recent content on Enthusiastic Learning Driven by Stocastic Findings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 04 May 2020 15:54:47 +0200</lastBuildDate>
+    
+	<atom:link href="https://kurisukun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New way of learning</title>
+      <link>https://kurisukun.github.io/posts/first-post/</link>
+      <pubDate>Mon, 04 May 2020 15:54:47 +0200</pubDate>
+      
+      <guid>https://kurisukun.github.io/posts/first-post/</guid>
+      <description>Title1 Title2 Title3 int i = 0; </description>
+    </item>
+    
+  </channel>
+</rss>
